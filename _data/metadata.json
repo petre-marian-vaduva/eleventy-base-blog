@@ -1,10 +1,10 @@
 {
-  "title": "Your Blog Name",
+  "title": "Life Hacks",
   "url": "https://example.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Most practical life hacks that can make your life much more convenient.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "I am writing about some quick and easy life hacks.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -14,8 +14,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
+    "name": "Petre-Marian Vaduva",
+    "email": "petrevaduva29@gmail.com",
     "url": "https://example.com/about-me/"
   }
 }
