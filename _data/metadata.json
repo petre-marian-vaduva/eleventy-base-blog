@@ -1,10 +1,10 @@
 {
-  "title": "Life Hacks",
+  "title": "Life Hacks!",
   "url": "https://example.com/",
   "language": "en",
-  "description": "Most practical life hacks that can make your life much more convenient.",
+  "description": "Most practical life hacks that can make your life better.",
   "feed": {
-    "subtitle": "I am writing about some quick and easy life hacks.",
+    "subtitle": "I am writing about some quick and easy life hacks about being more positive. If you set three attainable goals for each day, you build momentum. ",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
