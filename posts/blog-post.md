@@ -26,7 +26,7 @@ While the two points above can help you start your day with enthusiasm, they mig
   <!-- Copyright -->
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
     © 2021 Copyright:
-    <a class="text-dark" href="https://mdbootstrap.com/">Petre-Marian Vaduva</a>
+    <a class="text-dark" href="https://www.linkedin.com/in/petre-marian-vaduva-9b4b46201/">Petre-Marian Vaduva</a>
   </div>
   <!-- Copyright -->
 </footer>
