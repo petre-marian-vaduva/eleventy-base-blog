@@ -22,6 +22,11 @@ While the two points above can help you start your day with enthusiasm, they mig
 
 ## Be grateful for something, look forward to something, and manage your energy. Do these and you will be excited about your day.
 
-<div class="spinner-border" role="status">
-  <span class="visually-hidden"></span>
-</div>
+<footer class="bg-light text-center text-lg-start">
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+    © 2021 Copyright:
+    <a class="text-dark" href="https://mdbootstrap.com/">Petre-Marian Vaduva</a>
+  </div>
+  <!-- Copyright -->
+</footer>
